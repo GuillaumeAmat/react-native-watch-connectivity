@@ -9,7 +9,7 @@ Communicate with your apple watch apps over the react native bridge.
 
 ## Why that fork?
 
-The upstream project is not installable as CocoaPods complains about a missing `summary` attribute. A pull request exists since november 2018 but it is not merged several monthes after.
+The upstream project is not installable as CocoaPods complains about a missing `summary` attribute. A pull request exists since november 2018 but it is not merged several months after.
 
 https://github.com/mtford90/react-native-watch-connectivity/pull/21
 
