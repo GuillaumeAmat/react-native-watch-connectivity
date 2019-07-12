@@ -1,5 +1,6 @@
 {
   "name": "rnwatch",
+  "description": "Enable communication between iWatch app and react native",
   "version": "0.2.0",
   "private": true,
   "scripts": {
