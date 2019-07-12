@@ -6,6 +6,14 @@ Communicate with your apple watch apps over the react native bridge.
 
 <img height=600 src="https://github.com/mtford90/react-native-watch-connectivity/blob/06001bb1d15bcdb9607c35d75c7c7ab463c71e86/assets/screenshot.png?raw=true"/>
 
+
+## Why that fork?
+
+The upstream project is not installable as CocoaPods complains about a missing `summary` attribute. A pull request exists since november 2018 but it is not merged several monthes after.
+
+https://github.com/mtford90/react-native-watch-connectivity/pull/21
+
+
 ## Demo
 
 The featured screenshot is from the demo app. To get the demo app going:
